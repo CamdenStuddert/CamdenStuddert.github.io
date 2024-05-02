@@ -182,4 +182,10 @@ const CONFIG = {
     },
   },
 
+  
+    footer: ``,
+
+  enablePWA: true,
+};
+
 export default CONFIG;
