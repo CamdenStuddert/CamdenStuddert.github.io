@@ -183,7 +183,7 @@ const CONFIG = {
   },
 
   
-    footer: `My Resume`,
+    footer: ``,
 
   enablePWA: true,
 };
