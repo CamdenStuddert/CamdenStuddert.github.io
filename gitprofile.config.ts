@@ -68,6 +68,12 @@ const CONFIG = {
     'PostgreSQL',
     'Git',
     'CSS',
+    'Swift',
+    'UIKit',
+    'SwiftUI',
+    'HTML',
+    'JSON',
+    'AGILE'
   ],
   experiences: [
     {
